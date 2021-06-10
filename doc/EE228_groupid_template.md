@@ -6,7 +6,6 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 # Maya 环境配置
 
-这里请简单描述你配置Maya环境的过程。
 1.从官网上下载安装maya2020(申请教育权限后）.
 
 2.安装完成后运行maya2020,准备安装pip和numpy
@@ -77,10 +76,15 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 ![image](../doc/1update/20.jpg)
 
 5组匹配结果
+
 ![image](../doc/1update/51.jpg)
+
 ![image](../doc/1update/52.jpg)
+
 ![image](../doc/1update/53.jpg)
+
 ![image](../doc/1update/54.jpg)
+
 ![image](../doc/1update/55.jpg)
 
 
