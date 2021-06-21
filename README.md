@@ -1,7 +1,10 @@
 # Pose2Carton 
 
-EE228 课程大作业，利用3D骨架控制3D卡通人物。
+EE228 课程大作业 利用3D骨架控制3D卡通人物 (https://github.com/yuzhenbo/pose2carton) 
 
+数据组别： 26 (初始分配组别)
+
+数据类型： 10组匹配 + 5组蒙皮
 
 
 # Maya 环境配置
